@@ -1,0 +1,13 @@
+# python
+venv/
+_pycache_/
+*.pyc
+
+
+#Node.js
+node_modules/
+
+
+#OS files
+.DS_Store
+
